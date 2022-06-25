@@ -12,4 +12,6 @@ Durante el 2020, hubo dos tipos de "planes de cuarentena":
 
 - **Plan Paso a Paso**: Inicia el 28 de julio y consiste en la creación e implementación de movilidad y aforo categorizadas en 4 fases. Estas se implementan de acuerdo al objetivo de impacto sanitario que es espera alcanzar en la población. Se consideran como cuarentena las dos fases más restrictivas en términos de movilidad y aforo, que son fase 1 y fase 2. Respecto a las delimitaciones, las fases podían diferir dentro de una comuna, de acuerdo a si era zona rural o urbana, y en algunos casos, también podían diferir entre distintas localidades urbanas dentro de una misma comuna. La identificación de las cuarentenas por zona censal también ayuda a tener precisión en estos casos. 
 
+Todos la información fue obtenida de [MINCIENCIA](https://github.com/MinCiencia/Datos-COVID19).
+
 
