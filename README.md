@@ -6,7 +6,7 @@ Los archivos en formato .rds recopilan las cuarentenas por **zona censal** y **d
 
 Durante el 2020, hubo dos tipos de "planes de cuarentena": 
 
-- **Cuarentenas iniciales**: Desde el 12 de marzo al 27 de julio se establecieron cuarentenas, a veces para comunas completas y otras para determinados sectores dentro de una comuna. Un ejemplo de este último caso es que el 13 de abril se dejó en cuarentena el sector norte de Santiago, delimitado por las calles Av. Matta y Blanco Encalada. \n La identificación por zona censal sirve para tener precisión en este último caso.
+- **Cuarentenas iniciales**: Desde el 12 de marzo al 27 de julio se establecieron cuarentenas, a veces para comunas completas y otras para determinados sectores dentro de una comuna. Un ejemplo de este último caso es que el 13 de abril se dejó en cuarentena el sector norte de Santiago, delimitado por las calles Av. Matta y Blanco Encalada. La identificación por zona censal sirve para tener precisión en este último caso.
 
 - **Plan Paso a Paso**: Inicia el 28 de julio y consiste en la creación e implementación de movilidad y aforo categorizadas en 4 fases. Estas se implementan de acuerdo al objetivo de impacto sanitario que es espera alcanzar en la población. Se consideran como cuarentena las dos fases más restrictivas en términos de movilidad y aforo, que son fase 1 y fase 2. Respecto a las delimitaciones, las fases podían diferir dentro de una comuna, de acuerdo a si era zona rural o urbana, y en algunos casos, también podían diferir entre distintas localidades urbanas dentro de una misma comuna. La identificación de las cuarentenas por zona censal también ayuda a tener precisión en estos casos. 
 
