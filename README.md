@@ -1,9 +1,12 @@
 # Cuarentenas
  
-Los archivos en formato .rds recopila las cuarentenas por zona censal y día, desde el 12 de marzo del 2020 hasta el 21 de diciembre de 2020. 
+Los archivos en formato .rds recopilan las cuarentenas por **zona censal** y **día**. Desde el 12 de marzo del 2020 hasta el 21 de diciembre de 2020. 
 
-Este trabajo combina las "cuarentenas iniciales", donde se establecieron cuarentenas para determinados sectores dentro de las comunas (por ejemplo, el 13 de abril se dejó en cuarentena el sector norte de Santiago, delimitado por las calles Av. Matta y Blanco Encalada), con el Plan Paso a Paso que inició el 28 de julio de ese año. En el Plan Paso a Paso, las cuarentenas podían diferir entre sectores rurales y urbanos para una misma comuna, y en ocasiones (al sur de Chile), las cuarentenas diferían entre distintas localidades urbanas dentro de una misma comuna. 
+### Consideraciones
 
-Durante el Plan Paso a Paso, de considera como cuarentena fase 1 y fase 2. 
+Durante el 2020, hubieron dos tipos de "planes de cuarentena": 
 
+- **Cuarentenas "iniciales"**: Desde el 12 de marzo al 27 de julio se establecieron cuarentenas, a veces para comunas completas y otras para determinados sectores dentro de una comuna. Un ejemplo de este último caso es que el 13 de abril se dejó en cuarentena el sector norte de Santiago, delimitado por las calles Av. Matta y Blanco Encalada. \n La identificación por zona censal sirve para tener precisión en este último caso.
+
+- **Plan Paso a Paso**: Inicia el 28 de julio y consiste en la creación e implementación de movilidad y aforo categorizadas en 4 fases. Estas se implementan de acuerdo al objetivo de impacto sanitario que es espera alcanzar en la población. Se consideran como cuarentena las dos fases más restrictivas en términos de movilidad y aforo, que son fase 1 y fase 2. Respecto a las delimitaciones, las fases podían diferir dentro de una comuna, de acuerdo a si era zona rural o urbana, y en algunos casos, también podían diferir entre distintas localidades urbanas dentro de una misma comuna. La identificación de las cuarentenas por zona censal también ayuda a tener precisión en estos casos. 
 
