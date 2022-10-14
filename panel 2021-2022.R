@@ -18,8 +18,8 @@ source("functions.R")
 
 zc<- st_read("insumos/espec-pap.shp")
 
-cuarentenas_pap<- read_excel("cuarentenas_2021_20221.xlsx", sheet = "pasoapaso")
-cuarentenas_fases<- read_excel("cuarentenas_2021_20221.xlsx", sheet = "fases")
+cuarentenas_pap<- read_excel("cuarentenas_2021_2022.xlsx", sheet = "pasoapaso")
+cuarentenas_fases<- read_excel("cuarentenas_2021_2022.xlsx", sheet = "fases")
 
 fechas<- read_excel("cuarentenas_2021_20221.xlsx", sheet = "fechas")
 
