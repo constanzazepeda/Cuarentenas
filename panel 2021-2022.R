@@ -13,12 +13,13 @@ library(tidyr)
 source("functions.R")
 #panel_2020<- readRDS("panel_cuarentenas_final.rds")
 
-#zc<- st_read("insumos/geo_zc_consolidate.shp")
 
-
+# zonas censales
 zc<- st_read("insumos/espec-pap.shp")
 
+# paso a paso
 cuarentenas_pap<- read_excel("cuarentenas_2021_2022.xlsx", sheet = "pasoapaso")
+# fases de imacto bajo, medio, alto
 cuarentenas_fases<- read_excel("cuarentenas_2021_2022.xlsx", sheet = "fases")
 
 fechas<- read_excel("cuarentenas_2021_20221.xlsx", sheet = "fechas")
